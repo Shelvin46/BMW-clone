@@ -1,0 +1,60 @@
+.header{
+    background: blue;
+    width: 100%;
+    height: 95px;
+}body{
+    margin: 0;
+}
+.logo{
+    width: 50%;
+    padding-top: 35px;
+    float:left
+}.logo2{
+width: 50%;
+float: left;
+}.logo-text{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none ;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.login-css{
+    padding-top: 20px;
+    margin-left: 10px;
+    color: white;
+}
+.login-controls{
+    padding-left: 80px;
+}.login-css1{
+    color: white;
+}.button-dec{
+    color: white;
+    background-color: rgb(89, 0, 255);
+    cursor: pointer;
+    
+}.button-dec:hover{
+    background-color: blue;
+}.left-sub{
+    width: 50%;
+    height: 100%;
+    background-color: #8c97cf;
+}.main-sec{
+    width: 100%;
+    height: 500px;
+    background-color: #8c97cf;
+    margin: 0%;
+}.image{
+
+    margin-top: 100px;
+    width: 501px;
+    height: px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}.style{
+    margin-left: 50px;
+    color: aliceblue;
+    margin-bottom: 20px;
+    
+}
